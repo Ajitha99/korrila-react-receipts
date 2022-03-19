@@ -1,5 +1,6 @@
 // const receipt1 =
 //   {
+//     id:1,
 //     person: 'Karolin',
 //     order: {
 //       main: 'Burrito',
@@ -15,6 +16,7 @@
 //     paid: false
 //   }
 // const receipt2 = {
+//   id:2,
 //   person: 'Jerrica',
 //   order: {
 //     main: 'Rice Bowl',
@@ -30,6 +32,7 @@
 //   paid: false
 // }
 // const receipt3 = {
+//   id:3,
 //   person: 'Matt',
 //   order: {
 //     main: 'Salad Bowl',
